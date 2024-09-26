@@ -4,6 +4,8 @@
 
 # 概観
 
+メインアーム
+![image](https://github.com/KeioRoboticsAssociation/catch2024_r_hardware/blob/main/KT_main_ARM.png)
 
 
 
