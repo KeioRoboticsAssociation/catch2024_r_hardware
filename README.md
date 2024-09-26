@@ -2,6 +2,8 @@
 キャチロボ2024「KO技術大学」のCADファイルです.
 整頓機構とメインアームのstepファイルがzipされています．
 
+質問等は [thallos81](https://x.com/thallos81) 及び [shiva](https://x.com/shiva0167) まで！
+
 # 概観
 
 全体
